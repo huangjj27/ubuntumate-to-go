@@ -1,0 +1,5 @@
+
+# mount the tmp files to main memory
+tmpfs /tmp tmpfs defaults 0 0
+tmpfs /var/cache/apt/archives tmpfs defaults 0 0
+
